@@ -72,3 +72,27 @@ Bestellung 1 ◆──────── 0..1 Zahlung
 Begründung: Die Zahlung ist vollständig an eine Bestellung gebunden und kann nicht unabhängig davon existieren. Deshalb ist eine Komposition sinnvoll.
 
 --- 
+
+### Legende
+
+---
+◆
+Komposition – schwarzer Rhombus
+
+Das Teil kann ohne das Ganze nicht existieren. Wird das Ganze gelöscht, wird das Teil ebenfalls gelöscht.
+
+---
+
+◇
+Aggregation – leerer Rhombus
+
+Das Teil kann unabhängig vom Ganzen existieren.
+
+---
+
+—
+Assoziation – normale Linie
+
+Zwei Klassen stehen miteinander in Beziehung, ohne eine starke Teil-Ganzes-Beziehung.
+
+--- 
